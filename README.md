@@ -21,7 +21,7 @@ In this guide, I will help you make your windows install better, this includes t
 
 ![Screenshot 2024-06-19 231107](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/60d098e4-a3e2-4257-9b85-40ffc17baa59)
 
-## Making Windows more Private
+## 🌆Making Windows more Private
 This is gonna include setting up a **SECURE DNS**, **HARDENING FIREFOX**, **REMOVING MOST OF THE TELEMETRY** and some more tips.
 So lets get started.
 
@@ -141,8 +141,8 @@ Steps:
 
 </details>
 
-## Making Windows beautiful
-Time to make everything catppuccin theme.
+## 🌷Making Windows beautiful
+Time to make everything [catppuccin theme](https://github.com/catppuccin/catppuccin).
 
 ### Installing Startallback and configuring it
 
