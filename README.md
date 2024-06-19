@@ -299,7 +299,8 @@ see here
 
 see here
 
-![Screenshot 2024-06-19 224228](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/284a9a92-03e0-4fc4-a5e3-a9c999628af5)
+![Screenshot 2024-06-19 224405](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/7f80aeec-94b4-408b-8378-c3682ea3ca41)
+
 
 15. This is will open two text editor windows
 
