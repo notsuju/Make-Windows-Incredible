@@ -92,7 +92,7 @@ DONE THE START MENU AND TASKBAR ARE DONE. :)
 
 </details>
 
-### Istalling new right-click menu
+### Installing new right-click menu
 <details close>
 <summary>Follow this</summary>
 <br>
@@ -118,7 +118,7 @@ DONE THE RIGHT CLICK MENU IS NOW THEMED. 💯
 
 </details>
 
-### Istalling and configuring Alacritty(New Terminal)
+### Installing and configuring Alacritty(New Terminal)
 <details close>
 <summary>Follow this</summary>
 <br>
@@ -136,7 +136,7 @@ DONE YOUR ALACRITTY THEME IS DONE.
 
 </details>
 
-### Istalling keypirinha(App Launcher)
+### Installing keypirinha(App Launcher)
 <details close>
 <summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
 <br>
