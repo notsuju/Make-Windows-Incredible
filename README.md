@@ -155,14 +155,14 @@ Pick any wallpaper from [wall](https://github.com/notsuju/Make-Windows-Incredibl
 
 ### Installing Startallback and configuring it
 
-#### Preview
-
-![Screenshot 2024-06-19 222506](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/db371ca4-b210-4f71-8db4-5d10ccab6bc7)
-
 <details close>
 <summary>Click me</summary>
 <br>
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 222506](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/db371ca4-b210-4f71-8db4-5d10ccab6bc7)
 
 You can follow this amazing [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&list=PLGWgbaPiQ4hp4mYdaoVYnNZzzEym93d0t&index=5) by **VIN STAR** or **follow the following steps**
   
@@ -192,14 +192,14 @@ DONE THE START MENU AND TASKBAR ARE DONE. :)
 
 ### Installing new right-click menu
 
-#### Preview
-
-![rightclick](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/298319c3-b57b-4239-a66d-d6ad2aa2c9e0)
-
 <details close>
 <summary>Click me</summary>
 <br>
 Steps:
+
+#### Preview
+
+![rightclick](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/298319c3-b57b-4239-a66d-d6ad2aa2c9e0)
   
 1. Install from [nilesoft shell](https://nilesoft.org/) or by running `winget install nilesoft.shell` in cmd
 
@@ -230,14 +230,14 @@ DONE THE RIGHT CLICK MENU IS NOW THEMED. 💯
 
 ### Installing and configuring Alacritty(Terminal)
 
-#### Preview
-
-![Screenshot 2024-06-19 222729](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2a806357-7ea1-424f-8a4f-7ab2a4854910)
-
 <details close>
 <summary>Click me</summary>
 <br>
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 222729](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2a806357-7ea1-424f-8a4f-7ab2a4854910)
 
 1. Intall [alacritty](https://alacritty.org/)
 
@@ -258,14 +258,15 @@ DONE YOUR ALACRITTY THEME IS DONE.
 
 ### Installing keypirinha(App Launcher)
 
-#### Preview
-
-![Screenshot 2024-06-19 223944](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2bede3d8-1a78-40f8-8b3b-44a72f1a890a)
-
 <details close>
 <summary>Click me(this could be a bit complicated but just follow the steps)</summary>
 <br>
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 223944](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2bede3d8-1a78-40f8-8b3b-44a72f1a890a)
+
 
 1. Install Chololatey by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
 
@@ -323,14 +324,14 @@ DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
 
 ### Installing Catppuccin theme in firefox
 
-#### Preview
-
-![Screenshot 2024-06-19 225709](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2d54de38-6519-4852-8dab-88caca3acc59)
-
 <details close>
 <summary>Click me</summary>
 <br>
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 225709](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2d54de38-6519-4852-8dab-88caca3acc59)
 
 1. Open Firefox and type `about:config` in the address bar and search
 
@@ -392,14 +393,14 @@ ALL DONE FIREFOX IS READY :)
 
 ### Installing Catppuccin theme in vs code
 
-#### Preview
-
-![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/5c577a02-9978-4dee-b7e9-55be4903589e)
-
 <details close>
 <summary>Follow this</summary>
 <br>
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/5c577a02-9978-4dee-b7e9-55be4903589e)
 
 1. Go to this [link](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) and click on install and let it install on vs code
 
@@ -411,15 +412,15 @@ ALL DONE, VS CODE IS DONE.
 
 ## Installing Catppuccin theme in spotify
 
-#### Preview
-
-![Screenshot 2024-06-19 103208](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/1258ccbd-0d54-4c75-93a3-2fa38ad31660)
-
 <details close>
 <summary>Click me</summary></summary>
 <br>
 For this we will have to install spicetify.
 Steps:
+
+#### Preview
+
+![Screenshot 2024-06-19 103208](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/1258ccbd-0d54-4c75-93a3-2fa38ad31660)
 
 1. Uninstall Spotify
 
