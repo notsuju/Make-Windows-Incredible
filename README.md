@@ -138,7 +138,7 @@ DONE YOUR ALACRITTY THEME IS DONE.
 
 ### Istalling keypirinha(App Launcher)
 <details close>
-<summary>Follow this</summary>
+<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
 <br>
 Steps:
 
@@ -156,18 +156,34 @@ Steps:
 
 7. Restart your computer
 
-8. Now do **win+ctrl+k** (we will change it)
+8. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
 
-9. In keypirinha search box search config and click on keypirinha: Configure
+9. Close notepad and reopem notepad as administrator
 
-10. This is will open two text windows
+10. Now copy the raw file from [here](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Keypirinha.ini) by clicking the raw option
 
-11. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
+11. Now delete everything in file that you have opened in notepad and paste this new raw file in there and save.
 
-12. Close notepad and reopem notepad as administrator
+12. Now do **win+ctrl+k** (we will change it)
 
-13. Now 
+13. In keypirinha search box search config and click on keypirinha: Configure
 
+14. This is will open two text editor windows
+
+15. Now just paste this
+
+`[app]
+hotkey_run = Alt+Space
+[gui]
+theme = catppuccin
+show_on_taskbar = no
+max_results = 10`
+
+on the right window and save it by ctrl+s
+
+DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
+
+</details>
 
 
 
