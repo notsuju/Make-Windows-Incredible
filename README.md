@@ -128,13 +128,46 @@ Steps:
 
 2. Opem alacritty once and close it.
 
-3. Go to `C:\Users\username\AppData\Roaming\alacritty` in file manager
+3. Download my [alacritty.toml](https://github.com/notsuju/Make-Windows-Incredible/blob/main/alacritty.toml) file
 
-4. Make a file named `alacritty.toml` inside `C:\Users\username\AppData\Roaming\alacritty`
+4. Now copy this file and paste it in `C:\Users\SUJU\AppData\Roaming\alacritty` in file manager
 
-5. Open this file in any text editor like vs code
+DONE YOUR ALACRITTY THEME IS DONE.
 
-6. 
+</details>
+
+### Istalling keypirinha(App Launcher)
+<details close>
+<summary>Follow this</summary>
+<br>
+Steps:
+
+1. Install Chololatey by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
+
+2. Now install Keypirinha by running this command `choco install keypirinha` in command prompt with administrator
+
+3. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha` and create a shortcut of keypirinha.exe
+
+4. Now **window+r** and type **shell:startup**
+
+5. It will open in file manager
+
+6. Move the shortcut to this location
+
+7. Restart your computer
+
+8. Now do **win+ctrl+k** (we will change it)
+
+9. In keypirinha search box search config and click on keypirinha: Configure
+
+10. This is will open two text windows
+
+11. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
+
+12. Close notepad and reopem notepad as administrator
+
+13. Now 
+
 
 
 
