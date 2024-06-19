@@ -185,6 +185,74 @@ DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
 
 </details>
 
+### Installing Catppuccin theme in firefox
+<details close>
+<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
+<br>
+Steps:
+
+1. Open Firefox and type `about:config` in the address bar and search
+
+2. It will say proceed with caution, just accept the ricks and continue
+
+3. In about:config searxh for `legacyuserpro` and switch the value to true by **clicking the reversible button in the right hand corner**
+
+![aboutconfig](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/cce6f26a-7ce5-4a88-a18c-e5343335e528)
+
+5. Go to [here](https://github.com/mimipile/firefoxCSS/blob/main/userChrome.css) and copy the raw file
+
+We are using a theme called [Another Online](https://github.com/mimipile/firefoxCSS/tree/main) by mimipile
+
+5. Open firefox and type `about:profiles` in the address bar and search
+
+6. Go the second option root directory and click open directory
+
+![firefoxopendir](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/8e615d4c-07bf-4f93-9979-afdf854e002a)
+
+8. Close firefox
+
+9. Now here create a folder named `chrome`
+
+10. Now go inside the chrome folder
+
+11. Make two files inside called `userChrome.css` and `userContent.css`
+
+12. Also make a folder named `img`
+
+13. Now paste the raw file that was copied in step 4 in `userChrome.css` and save
+
+14. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
+
+15. Paste this raw file in `userContent.css` and save
+
+16. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+
+17. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+
+18. And paste that image in the `img` folder (this will be your firefox background image)
+
+19. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
+
+20. Close everything and reopen firefox (Your theme and img is work now)
+
+21. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
+
+ALL DONE FIREFOX IS READY :)
+
+</details>
+
+### Installing Catppuccin theme in vs code
+<details close>
+<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
+<br>
+Steps:
+
+1. Go to this [link](https://marketplace.visualstudio.com/items?itemName=AlexDauenhauer.catppuccin-noctis) and click on install and let it install on vs code
+
+2. Now open vs code and do `ctrl+k+T` and search catppuccin noctis and click on it to apply.
+
+ALL DONE VS CODE IS DONE.
+
 
 
 
