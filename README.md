@@ -25,10 +25,11 @@ In this guide, I will help you make your windows install better, this includes t
 This is gonna include setting up a **SECURE DNS**, **HARDENING FIREFOX**, **REMOVING MOST OF THE TELEMETRY** and some more tips.
 So lets get started.
 
-### Installing and hardening firefox
+### 🪨Installing and hardening firefox
 <details close>
 <summary>Click me</summary>
 <br>
+
 Install firefox from (https://www.mozilla.org/en-US/firefox/)
   
 #### **You can follow this [youtube video](https://www.youtube.com/watch?v=Fr8UFJzpNls&t=490s) for hardening firefox or just follow the following steps.**
@@ -64,6 +65,9 @@ Install firefox from (https://www.mozilla.org/en-US/firefox/)
 > Firefox Color(needed later for customizing firefox)
 
 4. Install a user.js file
+
+> [!WARNING]
+> **This could break some websites.**
 
 Go to [Betterfox](https://github.com/yokoffing/Betterfox) and click on **raw** in the right hand side and copy everything.
 
@@ -449,9 +453,9 @@ ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
 
 + Install [Proton vpn](https://protonvpn.com/) really good vpn with some free countries
 
-+ I will recommend using [proton mail](https://proton.me/mail) instead of gmail (you can use it free)
++ I recommend using [proton mail](https://proton.me/mail) instead of gmail (you can use it free)
 
-+ I will recommend using a password manager like [proton](https://proton.me/pass) (you can use it free)
++ I recommend using a password manager like [proton](https://proton.me/pass) (you can use it free)
 
 </details>
 
