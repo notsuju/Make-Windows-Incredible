@@ -310,7 +310,7 @@ DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
 
 #### Preview
 
-![key](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/11c9d0ad-6361-473f-a2e9-e3c01962727c)
+![Screenshot 2024-06-19 225709](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2d54de38-6519-4852-8dab-88caca3acc59)
 
 <details close>
 <summary>Click me</summary>
