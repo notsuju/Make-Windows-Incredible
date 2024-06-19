@@ -61,7 +61,27 @@ Under root directory click `Open Directory` or go to `C:\Users\SUJU\AppData\Roam
 
 Create a file called **user.js** in the onpened directory and paste all of the raw file there and save it.
 
+5. Changing the search engine to brave (see here [article](https://search.brave.com/default))
+
+> Go to https://search.brave.com/
+
+> Right click on the address bar
+
+> There should be an option to add brave as a searxh engine just click + icon on brave logo
+
+> Now go to firefox settings>search>**Change the search engine to barve**
+
 Now restart firefox and its hardened. Good job!
+
+</details>
+
+### Disabling most of the telemetry by microsoft🎢
+<details close>
+<summary>Follow this</summary>
+<br>
+  
+#### For this I would highly recommend to watch this [video](https://www.youtube.com/watch?v=VU9L0udNV9M&t=657s) by The PC Security Channel, its really easy to follow.
+
 
 </details>
 
@@ -187,7 +207,7 @@ DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
 
 ### Installing Catppuccin theme in firefox
 <details close>
-<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
+<summary>Click me</summary>
 <br>
 Steps:
 
@@ -243,7 +263,7 @@ ALL DONE FIREFOX IS READY :)
 
 ### Installing Catppuccin theme in vs code
 <details close>
-<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
+<summary>Follow this</summary>
 <br>
 Steps:
 
@@ -251,10 +271,59 @@ Steps:
 
 2. Now open vs code and do `ctrl+k+T` and search catppuccin noctis and click on it to apply.
 
-ALL DONE VS CODE IS DONE.
+ALL DONE, VS CODE IS DONE.
 
+</details>
 
+## Installing Catppuccin theme in spotify
+<details close>
+<summary>Click me</summary></summary>
+<br>
+For this we will have to install spicetify.
+Steps:
 
+1. Uninstall Spotify
+
+2. Go to [Spotify website](https://www.spotify.com/de-en/download/windows/) and click on download directly from spotify
+
+3. Install Spotify
+
+4. Install [Spicetify](https://spicetify.app/) by running this command in powershell `iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
+
+5. It will ask if you want to install marketplace type `y`
+
+6. Once the installion is done
+
+7. Open Spotify and a new option of store will be available
+
+8. Click on it and go to themes and install **text darkthemer** and reload
+
+9. And choose the **rosepine flavour**
+
+see here
+
+![spotifymarket](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/bc4efbfe-1e06-4029-982e-4884a0ef40f8)
+
+ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
+
+</details>
+
+## Some extra Tips and programs to install
+<details close>
+<summary>Click me</summary></summary>
+<br>
+  
++ Install [revo](https://www.revouninstaller.com/) super powerful uninstaller
+  
++ Install [kde connect](https://kdeconnect.kde.org/) connect your phone and pc over wifi and do some amazing things(You will have to downlaod it on both pc and mobile)
+
++ Install [Proton vpn](https://protonvpn.com/) really good vpn with some free countries
+
++ I will recommend using [proton mail](https://proton.me/mail) instead of gmail (you can use it free)
+
++ I will recommend using a password manager like [proton](https://proton.me/pass) (you can use it free)
+
+</details>
 
 
 
