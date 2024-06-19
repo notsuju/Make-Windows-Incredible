@@ -137,6 +137,8 @@ Steps:
 
 7. On (mannual template) add your DNS-over-HTTPS.
 
+8. Save
+
 </details>
 
 ## Making Windows beautiful
