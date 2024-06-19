@@ -55,11 +55,21 @@ Install firefox from (https://www.mozilla.org/en-US/firefox/)
 
 Go to [Betterfox](https://github.com/yokoffing/Betterfox) and click on **raw** in the right hand side and copy everything.
 
+see here
+
+![rawcopy](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/cbb5f86f-2bc9-4a04-b740-6ffd9cfffbc6)
+
+
 **Search** `about:profiles` in the address bar of firefox
 
 Under root directory click `Open Directory` or go to `C:\Users\SUJU\AppData\Roaming\Mozilla\Firefox\Profiles\PROFILENAME` in your file manager
 
+![firefoxopendir](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/a9318b36-0abd-4675-891f-ec32eff6e2c1)
+
 Create a file called **user.js** in the onpened directory and paste all of the raw file there and save it.
+> You can make a file like user.js by changing the `txt` format to `js` see here
+
+![userjss](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/4cbc0105-5d10-4f47-a6ef-e339f995314d)
 
 5. Changing the search engine to brave (see here [article](https://search.brave.com/default))
 
@@ -80,8 +90,7 @@ Now restart firefox and its hardened. Good job!
 <summary>Follow this</summary>
 <br>
   
-#### For this I would highly recommend to watch this [video](https://www.youtube.com/watch?v=VU9L0udNV9M&t=657s) by The PC Security Channel, its really easy to follow.
-
+ For this I would highly recommend to watch this **[video](https://www.youtube.com/watch?v=VU9L0udNV9M&t=657s)** by The PC Security Channel, its really easy to follow.
 
 </details>
 
