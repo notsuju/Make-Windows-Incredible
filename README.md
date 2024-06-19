@@ -68,15 +68,73 @@ Now restart firefox and its hardened. Good job!
 ## Making Windows beautiful
 Time to make everything catppuccin theme.
 
-### Installing Startallback and configuring it.
+### Installing Startallback and configuring it
 <details close>
 <summary>Follow this</summary>
 <br>
-#### Steps:
+Steps:
+
+You can follow this [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&list=PLGWgbaPiQ4hp4mYdaoVYnNZzzEym93d0t&index=5) or follow the following steps
   
 1. Install startallback from [here](https://startallback.com/)
 
-2. 
+2. Download this [file](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Catppuccin-theme/Startallback/Catppuccin%20SAB.msstyles)
+
+3. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
+
+4. Now right click on start logo on desktop, go to the last option preferences, it will open startallback settings.
+
+5. Go the taskbar settings and change the taskbar location setting to **TOP**
+
+6. In taskbar settings change the visual style to catppuccin (do the same for start menu)
+
+DONE THE START MENU AND TASKBAR ARE DONE. :)
+
+</details>
+
+### Istalling new right-click menu
+<details close>
+<summary>Follow this</summary>
+<br>
+Steps:
+  
+1. Install from [nilesoft shell](https://nilesoft.org/) or by running `winget install nilesoft.shell` in cmd
+
+2. After installing your right-click menu will change and will have a lot more options.
+
+3. You will have to install Catppuccin-Mocha-Pink.nss theme from [Catppuccin nilesoft](https://github.com/catppuccin/nilesoft-shell/blob/main/mocha/catppuccin-mocha-pink.nss)
+
+4. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
+
+5. Copy the theme.nss file
+
+6. Shift+right click on the taskbar>shell>open directory, this should open in file manager.
+
+7. Go the folder `imports` and paste your theme.nss there.
+
+8. Hold shift and right-click the taskbar and Click on **Exit Explorer**
+
+DONE THE RIGHT CLICK MENU IS NOW THEMED. 💯
+
+</details>
+
+### Istalling and configuring Alacritty(New Terminal)
+<details close>
+<summary>Follow this</summary>
+<br>
+Steps:
+
+1. Intall [alacritty](https://alacritty.org/)
+
+2. Opem alacritty once and close it.
+
+3. Go to `C:\Users\username\AppData\Roaming\alacritty` in file manager
+
+4. Make a file named `alacritty.toml` inside `C:\Users\username\AppData\Roaming\alacritty`
+
+5. Open this file in any text editor like vs code
+
+6. 
 
 
 
