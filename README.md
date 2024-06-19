@@ -144,6 +144,15 @@ Steps:
 ## 🌷Making Windows beautiful
 Time to make everything [catppuccin theme](https://github.com/catppuccin/catppuccin).
 
+### Pick a wallpaper
+<details close>
+<summary>Click me</summary>
+<br>
+
+Pick any wallpaper from [wall](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+
+</details>
+
 ### Installing Startallback and configuring it
 
 #### Preview
