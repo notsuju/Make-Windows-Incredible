@@ -149,7 +149,9 @@ Time to make everything [catppuccin theme](https://github.com/catppuccin/catppuc
 <summary>Click me</summary>
 <br>
 
-Pick any wallpaper from [wall](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+Pick any catppuccin inspired wallpaper from [wall](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+
+Find even more wallpapers [here](https://github.com/notsuju/wallpapers)
 
 </details>
 
