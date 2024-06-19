@@ -63,17 +63,23 @@ Create a file called **user.js** in the onpened directory and paste all of the r
 
 Now restart firefox and its hardened. Good job!
 
-
-
-
-
-
-
-
-
-
-
-  
 </details>
+
+## Making Windows beautiful
+Time to make everything catppuccin theme.
+
+### Installing Startallback and configuring it.
+<details close>
+<summary>Follow this</summary>
+<br>
+#### Steps:
+  
+1. Install startallback from [here](https://startallback.com/)
+
+2. 
+
+
+
+
 
 
