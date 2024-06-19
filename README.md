@@ -9,13 +9,25 @@ In this guide, I will help you make your windows install better, this includes t
 
 ## Screenshots
 
+![mainsample](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/48226358-28ca-4632-bcb7-8743e95f3780)
+
+![Screenshot 2024-06-19 102953](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/40572e80-b09c-4a86-939b-26a8d83be63e)
+
+![Screenshot 2024-06-19 103208](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/9b7a4d7d-e6e0-407d-9b54-22417afea1d2)
+
+![Screenshot 2024-06-19 103102](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/a60f8111-11ac-4f5c-898c-69d51067e1ca)
+
+![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/febfe82b-2ac6-42eb-a4ea-fa92200c92ff)
+
+![Screenshot 2024-06-19 231107](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/60d098e4-a3e2-4257-9b85-40ffc17baa59)
+
 ## Making Windows more Private
 This is gonna include setting up a **SECURE DNS**, **HARDENING FIREFOX**, **REMOVING MOST OF THE TELEMETRY** and some more tips.
 So lets get started.
 
 ### Installing and hardening firefox
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
 Install firefox from (https://www.mozilla.org/en-US/firefox/)
   
@@ -87,10 +99,39 @@ Now restart firefox and its hardened. Good job!
 
 ### Disabling most of the telemetry by microsoft🎢
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
   
  For this I would highly recommend to watch this **[video](https://www.youtube.com/watch?v=VU9L0udNV9M&t=657s)** by The PC Security Channel, its really easy to follow.
+
+</details>
+
+### Using a secure DNS
+<details close>  
+<summary>Click me</summary>
+<br>
+  
+I will be showing how to set up [nextdns](https://nextdns.io/)
+
+Steps:
+
+> [!NOTE]
+> Best way of doing this is to follow the steps given on the setup page of [nextDNS](https://nextdns.io/) (recommended)
+
+
+1. Go to [nextdns](https://nextdns.io/) and make an account
+
+2. Open the Settings app
+
+3. Go to Network & internet>Wifi>Hardware properties
+
+4. Click the Edit button next to DNS server assignment
+
+5. Select manual and Enable IPv4
+
+6. Check the DNS Servers and put those values in **Preferred DNS** and **Alternate DNS**
+
+7. On (mannual template) add your DNS-over-HTTPS.
 
 </details>
 
@@ -98,32 +139,50 @@ Now restart firefox and its hardened. Good job!
 Time to make everything catppuccin theme.
 
 ### Installing Startallback and configuring it
+
+#### Preview
+
+![Screenshot 2024-06-19 222506](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/db371ca4-b210-4f71-8db4-5d10ccab6bc7)
+
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
 Steps:
 
-You can follow this [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&list=PLGWgbaPiQ4hp4mYdaoVYnNZzzEym93d0t&index=5) or follow the following steps
+You can follow this amazing [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&list=PLGWgbaPiQ4hp4mYdaoVYnNZzzEym93d0t&index=5) by **VIN STAR** or **follow the following steps**
   
 1. Install startallback from [here](https://startallback.com/)
 
-2. Download this [file](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Catppuccin-theme/Startallback/Catppuccin%20SAB.msstyles)
+2. Download this [file](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Catppuccin%20SAB.msstyles)
 
-3. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
+HOW TO DOWNLOAD A RAW FILE SEE HERE
 
-4. Now right click on start logo on desktop, go to the last option preferences, it will open startallback settings.
+![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/65a32d0e-953e-4bbd-bb76-90ad193a0ec5)
 
-5. Go the taskbar settings and change the taskbar location setting to **TOP**
+4. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
 
-6. In taskbar settings change the visual style to catppuccin (do the same for start menu)
+5. Now right click on start logo on desktop, go to the last option preferences, it will open startallback settings.
+
+see here
+
+![startprop](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/b7b70bf5-2510-401b-9a3e-faf27874c757)
+
+7. Go the taskbar settings and change the taskbar location setting to **TOP**
+
+8. In taskbar settings change the visual style to catppuccin (do the same for start menu)
 
 DONE THE START MENU AND TASKBAR ARE DONE. :)
 
 </details>
 
 ### Installing new right-click menu
+
+#### Preview
+
+![rightclick](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/298319c3-b57b-4239-a66d-d6ad2aa2c9e0)
+
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
 Steps:
   
@@ -131,25 +190,37 @@ Steps:
 
 2. After installing your right-click menu will change and will have a lot more options.
 
-3. You will have to install Catppuccin-Mocha-Pink.nss theme from [Catppuccin nilesoft](https://github.com/catppuccin/nilesoft-shell/blob/main/mocha/catppuccin-mocha-pink.nss)
+3. You will have to downlaod Catppuccin-Mocha-Pink.nss theme from [Catppuccin nilesoft](https://github.com/catppuccin/nilesoft-shell/blob/main/mocha/catppuccin-mocha-pink.nss)
 
-4. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
+HOW TO DOWNLOAD A RAW FILE SEE HERE
 
-5. Copy the theme.nss file
+![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/1a3b4c18-39fa-401b-861f-3aee6c230272)
 
-6. Shift+right click on the taskbar>shell>open directory, this should open in file manager.
 
-7. Go the folder `imports` and paste your theme.nss there.
+5. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
 
-8. Hold shift and right-click the taskbar and Click on **Exit Explorer**
+6. Copy the theme.nss file
+
+7. Shift+right-click on the taskbar
+
+8. Then clcik shell>open directory, this should open in file manager.
+
+9. Go the folder `imports` in that directory and paste your theme.nss there.
+
+10. Hold shift and right-click the taskbar and Click on **Exit Explorer**
 
 DONE THE RIGHT CLICK MENU IS NOW THEMED. 💯
 
 </details>
 
-### Installing and configuring Alacritty(New Terminal)
+### Installing and configuring Alacritty(Terminal)
+
+#### Preview
+
+![Screenshot 2024-06-19 222729](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2a806357-7ea1-424f-8a4f-7ab2a4854910)
+
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
 Steps:
 
@@ -159,15 +230,25 @@ Steps:
 
 3. Download my [alacritty.toml](https://github.com/notsuju/Make-Windows-Incredible/blob/main/alacritty.toml) file
 
-4. Now copy this file and paste it in `C:\Users\SUJU\AppData\Roaming\alacritty` in file manager
+HOW TO DOWNLOAD A RAW FILE SEE HERE
+
+![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/65a32d0e-953e-4bbd-bb76-90ad193a0ec5)
+
+
+5. Now copy this file and paste it in `C:\Users\username\AppData\Roaming\alacritty` in file manager
 
 DONE YOUR ALACRITTY THEME IS DONE.
 
 </details>
 
 ### Installing keypirinha(App Launcher)
+
+#### Preview
+
+![Screenshot 2024-06-19 223944](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2bede3d8-1a78-40f8-8b3b-44a72f1a890a)
+
 <details close>
-<summary>Follow this(this could be a bit complicated but just follow the steps)</summary>
+<summary>Click me(this could be a bit complicated but just follow the steps)</summary>
 <br>
 Steps:
 
@@ -177,29 +258,36 @@ Steps:
 
 3. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha` and create a shortcut of keypirinha.exe
 
-4. Now **window+r** and type **shell:startup**
+see here
+![key](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/6321d525-e3e4-48c2-8961-39bb738e4ed1)
 
-5. It will open in file manager
+5. Now **window+r** and type **shell:startup**
 
-6. Move the shortcut to this location
+6. It will open in file manager
 
-7. Restart your computer
+7. Move the shortcut to this location
 
-8. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
+8. Restart your computer
 
-9. Close notepad and reopem notepad as administrator
+9. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
 
-10. Now copy the raw file from [here](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Keypirinha.ini) by clicking the raw option
+10. Close notepad and reopem notepad as administrator
 
-11. Now delete everything in file that you have opened in notepad and paste this new raw file in there and save.
+11. Now copy the raw file from [here](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Keypirinha.ini) by clicking the raw option
 
-12. Now do **win+ctrl+k** (we will change it)
+12. Now delete everything in file that you have opened in notepad and paste this new raw file in there and save.
 
-13. In keypirinha search box search config and click on keypirinha: Configure
+13. Now do **win+ctrl+k** (we will change it alt+space later)
 
-14. This is will open two text editor windows
+14. In keypirinha search box search config and click on keypirinha: Configure
 
-15. Now just paste this
+see here
+
+![Screenshot 2024-06-19 224228](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/284a9a92-03e0-4fc4-a5e3-a9c999628af5)
+
+15. This is will open two text editor windows
+
+16. Now just paste this
 
 `[app]
 hotkey_run = Alt+Space
@@ -210,11 +298,20 @@ max_results = 10`
 
 on the right window and save it by ctrl+s
 
+see here
+
+![Screenshot 2024-06-19 224228](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/96b58f72-ab72-41bf-b226-3797779fddb1)
+
 DONE NOW YOU CAN USE ALT+SPACE TO CALL KEYPIRINHA WITH CATPPUCCIN THEME. :0
 
 </details>
 
 ### Installing Catppuccin theme in firefox
+
+#### Preview
+
+![key](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/11c9d0ad-6361-473f-a2e9-e3c01962727c)
+
 <details close>
 <summary>Click me</summary>
 <br>
@@ -228,7 +325,7 @@ Steps:
 
 ![aboutconfig](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/cce6f26a-7ce5-4a88-a18c-e5343335e528)
 
-5. Go to [here](https://github.com/mimipile/firefoxCSS/blob/main/userChrome.css) and copy the raw file
+4. Go to [here](https://github.com/mimipile/firefoxCSS/blob/main/userChrome.css) and copy the raw file
 
 We are using a theme called [Another Online](https://github.com/mimipile/firefoxCSS/tree/main) by mimipile
 
@@ -246,31 +343,44 @@ We are using a theme called [Another Online](https://github.com/mimipile/firefox
 
 11. Make two files inside called `userChrome.css` and `userContent.css`
 
-12. Also make a folder named `img`
+HOW TO MAKE FILE WITH `.css` type SEE HERE
 
-13. Now paste the raw file that was copied in step 4 in `userChrome.css` and save
+![userjss](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/69a24f5e-dd6a-4b71-851f-d9ef97eec7e1)
 
-14. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
+13. Also make a folder named `img`
 
-15. Paste this raw file in `userContent.css` and save
+It should look like this
 
-16. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+![Screenshot 2024-06-19 230109](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/0d204ef3-1028-485a-aa3e-be25508449c8)
 
-17. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+15. Now paste the raw file that was copied in **step 4** in `userChrome.css` and save
 
-18. And paste that image in the `img` folder (this will be your firefox background image)
+16. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
 
-19. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
+17. Paste this raw file in `userContent.css` and save
 
-20. Close everything and reopen firefox (Your theme and img is work now)
+18. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
 
-21. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
+19. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+
+20. And paste that image in the `img` folder (this will be your firefox background image)
+
+21. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
+
+22. Close everything and reopen firefox (Your theme and img is work now)
+
+23. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
 
 ALL DONE FIREFOX IS READY :)
 
 </details>
 
 ### Installing Catppuccin theme in vs code
+
+#### Preview
+
+![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/5c577a02-9978-4dee-b7e9-55be4903589e)
+
 <details close>
 <summary>Follow this</summary>
 <br>
@@ -285,6 +395,11 @@ ALL DONE, VS CODE IS DONE.
 </details>
 
 ## Installing Catppuccin theme in spotify
+
+#### Preview
+
+![Screenshot 2024-06-19 103208](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/1258ccbd-0d54-4c75-93a3-2fa38ad31660)
+
 <details close>
 <summary>Click me</summary></summary>
 <br>
@@ -295,6 +410,10 @@ Steps:
 
 2. Go to [Spotify website](https://www.spotify.com/de-en/download/windows/) and click on download directly from spotify
 
+see here
+
+![spotifydown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/c1b3892b-13c2-4142-b37e-5c5b10399f2d)
+
 3. Install Spotify
 
 4. Install [Spicetify](https://spicetify.app/) by running this command in powershell `iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex`
@@ -303,11 +422,13 @@ Steps:
 
 6. Once the installion is done
 
-7. Open Spotify and a new option of store will be available
+7. Open Spotify and log-in
 
-8. Click on it and go to themes and install **text darkthemer** and reload
+8. A new option of store will be available
 
-9. And choose the **rosepine flavour**
+9. Click on it and go to themes and install **text darkthemer** and reload
+
+10. And choose the **rosepine flavour**
 
 see here
 
@@ -317,7 +438,7 @@ ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
 
 </details>
 
-## Some extra Tips and programs to install
+## Some extra Tips and programs to install (OPTIONAL)
 <details close>
 <summary>Click me</summary></summary>
 <br>
