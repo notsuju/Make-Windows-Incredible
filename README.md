@@ -8,7 +8,7 @@ In this guide, I will help you make your windows install better, this includes t
 > This guide has been tested on Windows 11 only.
 
 > [!IMPORTANT]  
-> This is only a guide almsot all of the files, apps or videos are not owned by me.
+> This is only a guide almost all of the files, apps or videos are not owned by me.
 
 > [!WARNING]
 > This is going to be a long process and will take good amount of hard work.
