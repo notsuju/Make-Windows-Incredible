@@ -149,7 +149,7 @@ Install firefox from (https://www.mozilla.org/en-US/firefox/)
 
 Go to [Betterfox](https://github.com/yokoffing/Betterfox) and click on **raw** in the right hand side and copy everything.
 
-see here
+[see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 **Search** `about:profiles` in the address bar of firefox
 
@@ -270,7 +270,7 @@ You can follow this amazing [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&
 
 2. Download this [file](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Catppuccin%20SAB.msstyles)
 
-HOW TO DOWNLOAD A RAW FILE SEE HERE
+HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 4. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
 
@@ -305,7 +305,7 @@ Steps:
 
 3. You will have to downlaod Catppuccin-Mocha-Pink.nss theme from [Catppuccin nilesoft](https://github.com/catppuccin/nilesoft-shell/blob/main/mocha/catppuccin-mocha-pink.nss)
 
-HOW TO DOWNLOAD A RAW FILE SEE HERE
+HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 5. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
 
@@ -340,7 +340,7 @@ Steps:
 
 3. Download my [alacritty.toml](https://github.com/notsuju/Make-Windows-Incredible/blob/main/alacritty.toml) file
 
-HOW TO DOWNLOAD A RAW FILE SEE HERE
+HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 5. Now copy this file and paste it in `C:\Users\username\AppData\Roaming\alacritty` in file manager
 
@@ -449,7 +449,7 @@ We are using a theme called [Another Online](https://github.com/mimipile/firefox
 
 11. Make two files inside called `userChrome.css` and `userContent.css`
 
-HOW TO MAKE FILE WITH `.css` type SEE HERE
+HOW TO MAKE FILE WITH `.css` type [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 13. Also make a folder named `img`
 
@@ -461,19 +461,23 @@ It should look like this
 
 16. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
 
-17. Paste this raw file in `userContent.css` and save
+HOW TO COPY RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-18. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+18. Paste this raw file in `userContent.css` and save
 
-19. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+19. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
 
-20. And paste that image in the `img` folder (this will be your firefox background image)
+20. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
 
-21. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
+21. And paste that image in the `img` folder (this will be your firefox background image)
 
-22. Close everything and reopen firefox (Your theme and img is work now)
+22. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
 
-23. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
+23. Close everything and reopen firefox (Your theme and img is work now)
+
+24. Install the [Firefox color](https://color.firefox.com/)
+
+25. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
 
 ALL DONE FIREFOX IS READY :)
 
