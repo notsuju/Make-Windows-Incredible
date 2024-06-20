@@ -28,6 +28,11 @@ In this guide, I will help you make your windows install better, this includes t
 
 ![Screenshot 2024-06-19 231107](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/60d098e4-a3e2-4257-9b85-40ffc17baa59)
 
+## Table of Contents
+
+[Guides and some important programs](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#guides-and-some-important-programs)
+ - [Installing some important programs](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#first-install-some-important-programs)
+
 ## Guides and some important programs
 
 Some guides about how to download files from github and how to copy raw files and also installing some programs which will be nessecary later on.
