@@ -7,6 +7,9 @@ In this guide, I will help you make your windows install better, this includes t
 > [!NOTE]  
 > This guide has been tested on Windows 11 only.
 
+> [!IMPORTANT]  
+> This is only a guide almsot all of the files, apps or videos are not owned by me.
+
 > [!WARNING]
 > This is going to be a long process and will take good amount of hard work.
 
@@ -24,6 +27,50 @@ In this guide, I will help you make your windows install better, this includes t
 ![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/febfe82b-2ac6-42eb-a4ea-fa92200c92ff)
 
 ![Screenshot 2024-06-19 231107](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/60d098e4-a3e2-4257-9b85-40ffc17baa59)
+
+## Guides and some important programs
+
+Some guides about how to download files from github and how to copy raw files and also installing some programs which will be nessecary later on.
+
+### First install some important programs
+<details close>
+<summary>Click me</summary>
+<br>
+
++ Install [scoop](https://scoop.sh/) by running `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression` this command in powershell as administrator and wait till its successful
+
++ Install [Chocolatey](https://chocolatey.org/install) by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
+
++ Install Winget by downloading or updating [App Installer from microsoft store](https://apps.microsoft.com/detail/9nblggh4nns1?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US#activetab=pivot:overviewtab)
+
+</details>
+
+### Some guides about how to use github
+<details close>
+<summary>Click me</summary>
+<br>
+
++ How to copy a **raw** file
+
+see here
+
+![rawcopy1](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/e64ba928-5435-46b9-92f0-5eb8bb4125db)
+
+
++ How to download file from github
+
+see here
+
+![rawdownlaod](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/97da758b-fc6b-4354-ac93-00922eb61b36)
+
++ How to make files with different types
+
+see here
+
+![userjss](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/4fe83e43-89c1-4993-9c77-e6eb3a661013)
+
+</details>
 
 ## 🌆Making Windows more Private
 This is gonna include setting up a **SECURE DNS**, **HARDENING FIREFOX**, **REMOVING MOST OF THE TELEMETRY** and some more tips.
@@ -77,9 +124,6 @@ Go to [Betterfox](https://github.com/yokoffing/Betterfox) and click on **raw** i
 
 see here
 
-![rawcopy](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/cbb5f86f-2bc9-4a04-b740-6ffd9cfffbc6)
-
-
 **Search** `about:profiles` in the address bar of firefox
 
 Under root directory click `Open Directory` or go to `C:\Users\SUJU\AppData\Roaming\Mozilla\Firefox\Profiles\PROFILENAME` in your file manager
@@ -105,7 +149,7 @@ Now restart firefox and its hardened. Good job!
 
 </details>
 
-### Disabling most of the telemetry by microsoft🎢
+### Disabling most of the telemetry by microsoft
 <details close>
 <summary>Click me</summary>
 <br>
@@ -145,8 +189,31 @@ Steps:
 
 </details>
 
+### Use a local account instead (Optional)
+<details close>  
+<summary>Click me</summary>
+<br>
+
+You can this amazing [guide](https://www.elevenforum.com/t/switch-to-local-account-from-microsoft-account-in-windows-11.1219/) (its quite easy)
+
+</details>
+
 ## 🌷Making Windows beautiful
 Time to make everything [catppuccin theme](https://github.com/catppuccin/catppuccin).
+
+### First install some important programs
+<details close>
+<summary>Click me</summary>
+<br>
+
++ Install [scoop](https://scoop.sh/) by running `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression` this command in powershell as administrator and wait till its successful
+
++ Install [Chocolatey](https://chocolatey.org/install) by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
+
++ Install Winget by downloading or updating [App Installer from microsoft store](https://apps.microsoft.com/detail/9nblggh4nns1?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US#activetab=pivot:overviewtab)
+
+</details>
 
 ### Pick a wallpaper
 <details close>
@@ -177,8 +244,6 @@ You can follow this amazing [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&
 2. Download this [file](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Catppuccin%20SAB.msstyles)
 
 HOW TO DOWNLOAD A RAW FILE SEE HERE
-
-![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/65a32d0e-953e-4bbd-bb76-90ad193a0ec5)
 
 4. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
 
@@ -215,9 +280,6 @@ Steps:
 
 HOW TO DOWNLOAD A RAW FILE SEE HERE
 
-![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/1a3b4c18-39fa-401b-861f-3aee6c230272)
-
-
 5. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
 
 6. Copy the theme.nss file
@@ -253,9 +315,6 @@ Steps:
 
 HOW TO DOWNLOAD A RAW FILE SEE HERE
 
-![rawdown](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/65a32d0e-953e-4bbd-bb76-90ad193a0ec5)
-
-
 5. Now copy this file and paste it in `C:\Users\username\AppData\Roaming\alacritty` in file manager
 
 DONE YOUR ALACRITTY THEME IS DONE.
@@ -273,44 +332,41 @@ Steps:
 
 ![Screenshot 2024-06-19 223944](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/2bede3d8-1a78-40f8-8b3b-44a72f1a890a)
 
+1. Now install Keypirinha by running this command `choco install keypirinha` in command prompt with administrator
 
-1. Install Chololatey by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
-
-2. Now install Keypirinha by running this command `choco install keypirinha` in command prompt with administrator
-
-3. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha` and create a shortcut of keypirinha.exe
+2. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha` and create a shortcut of keypirinha.exe
 
 see here
 ![key](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/6321d525-e3e4-48c2-8961-39bb738e4ed1)
 
-5. Now **window+r** and type **shell:startup**
+3. Now **window+r** and type **shell:startup**
 
-6. It will open in file manager
+4. It will open in file manager
 
-7. Move the shortcut to this location
+5. Move the shortcut to this location
 
-8. Restart your computer
+6. Restart your computer
 
-9. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
+7. Now go to `C:\ProgramData\chocolatey\lib\keypirinha\tools\Keypirinha\default\App` and open keypirinha.ini file in notepad.
 
-10. Close notepad and reopem notepad as administrator
+8. Close notepad and reopem notepad as administrator
 
-11. Now copy the raw file from [here](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Keypirinha.ini) by clicking the raw option
+9. Now copy the raw file from [here](https://github.com/notsuju/Make-Windows-Incredible/blob/main/Keypirinha.ini) by clicking the raw option
 
-12. Now delete everything in file that you have opened in notepad and paste this new raw file in there and save.
+10. Now delete everything in file that you have opened in notepad and paste this new raw file in there and save.
 
-13. Now do **win+ctrl+k** (we will change it alt+space later)
+11. Now do **win+ctrl+k** (we will change it alt+space later)
 
-14. In keypirinha search box search config and click on keypirinha: Configure
+12. In keypirinha search box search config and click on keypirinha: Configure
 
 see here
 
 ![Screenshot 2024-06-19 224405](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/7f80aeec-94b4-408b-8378-c3682ea3ca41)
 
 
-15. This is will open two text editor windows
+13. This is will open two text editor windows
 
-16. Now just paste this
+14. Now just paste this
 
 `[app]
 hotkey_run = Alt+Space
@@ -367,8 +423,6 @@ We are using a theme called [Another Online](https://github.com/mimipile/firefox
 11. Make two files inside called `userChrome.css` and `userContent.css`
 
 HOW TO MAKE FILE WITH `.css` type SEE HERE
-
-![userjss](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/69a24f5e-dd6a-4b71-851f-d9ef97eec7e1)
 
 13. Also make a folder named `img`
 
@@ -467,7 +521,13 @@ ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
 <br>
   
 + Install [revo](https://www.revouninstaller.com/) super powerful uninstaller
-  
+
++ Install [Fastfetch](https://github.com/fastfetch-cli/fastfetch) by running the command `winget install fastfetch` in the terminal
+
+Preview
+
+![fastfetch](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/a0977a07-307b-4e14-b50d-cf3068d13e52)
+
 + Install [kde connect](https://kdeconnect.kde.org/) connect your phone and pc over wifi and do some amazing things(You will have to downlaod it on both pc and mobile)
 
 + Install [Proton vpn](https://protonvpn.com/) really good vpn with some free countries
@@ -475,6 +535,8 @@ ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
 + I recommend using [proton mail](https://proton.me/mail) instead of gmail (you can use it free)
 
 + I recommend using a password manager like [proton](https://proton.me/pass) (you can use it free)
+
++ Install amazing tool [ani-cli](https://github.com/pystardust/ani-cli) by erntinall that lets you watch anime through terminal
 
 </details>
 
