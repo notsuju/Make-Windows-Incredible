@@ -20,18 +20,40 @@ In this guide, I will help you make your windows install better, this includes t
 
 ![Screenshot 2024-06-19 102953](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/40572e80-b09c-4a86-939b-26a8d83be63e)
 
+![sample2](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/82cbef7c-949c-4646-9976-c33c491fa421)
+
 ![Screenshot 2024-06-19 103208](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/9b7a4d7d-e6e0-407d-9b54-22417afea1d2)
 
 ![Screenshot 2024-06-19 103102](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/a60f8111-11ac-4f5c-898c-69d51067e1ca)
-
-![Screenshot 2024-06-19 103409](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/febfe82b-2ac6-42eb-a4ea-fa92200c92ff)
-
-![Screenshot 2024-06-19 231107](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/60d098e4-a3e2-4257-9b85-40ffc17baa59)
 
 ## Table of Contents
 
 [Guides and some important programs](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#guides-and-some-important-programs)
  - [Installing some important programs](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#first-install-some-important-programs)
+ - [Some important guides](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
+
+[Making windows more private](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#making-windows-more-private)
+ - [Installing and hardening Firefox](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-and-hardening-firefox)
+ - [Disabling Telemetry](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#disabling-most-of-the-telemetry-by-microsoft)
+ - [Secure DNS](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#using-a-secure-dns)
+ - [Local account](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#use-a-local-account-instead-optional)
+
+[🌷 Making Windows beautiful](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#making-windows-beautiful)
+ - [Pick a wallpaper](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#pick-a-wallpaper)
+ - [Installing Startallback and configuring it](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-startallback-and-configuring-it)
+ - [Installing new right-click menu](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-new-right-click-menu)
+ - [Installing and configuring Alacritty(Terminal)](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-and-configuring-alacrittyterminal)
+ - [Installing keypirinha(App Launcher)](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-keypirinhaapp-launcher)
+ - [Installing Catppuccin theme in firefox](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-catppuccin-theme-in-firefox)
+ - [Installing Catppuccin theme in vs code](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-catppuccin-theme-in-vs-code)
+ - [Installing Catppuccin theme in spotify](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-catppuccin-theme-in-spotify)
+
+[Some extra Tips and programs to install (OPTIONAL)](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#installing-catppuccin-theme-in-spotify)
+
+[Questions](https://github.com/notsuju/Make-Windows-Incredible/edit/main/README.md#q-i-have-questions-where-can-i-get-help)
+
+[Credits](https://github.com/notsuju/Make-Windows-Incredible/edit/main/README.md#credits)
+
 
 ## Guides and some important programs
 
@@ -460,7 +482,7 @@ ALL DONE FIREFOX IS READY :)
 ### Installing Catppuccin theme in vs code
 
 <details close>
-<summary>Follow this</summary>
+<summary>Click me</summary>
 <br>
 Steps:
 
@@ -476,7 +498,7 @@ ALL DONE, VS CODE IS DONE.
 
 </details>
 
-## Installing Catppuccin theme in spotify
+### Installing Catppuccin theme in spotify
 
 <details close>
 <summary>Click me</summary></summary>
@@ -520,7 +542,7 @@ ALL DONE EXPLORE THE STORE AND INSTALL THINGS THAT YOU LIKE
 
 </details>
 
-## Some extra Tips and programs to install (OPTIONAL)
+## ✨Some extra Tips and programs to install (OPTIONAL)
 <details close>
 <summary>Click me</summary></summary>
 <br>
@@ -544,6 +566,14 @@ Preview
 + Install amazing tool [ani-cli](https://github.com/pystardust/ani-cli) by erntinall that lets you watch anime through terminal
 
 </details>
+
+## ❓Q: I have questions. Where can I get help?
+
+   For any questions, please start a discussion in GitHub Discussions.
+   Or report an issue.
+
+## 🧾Credits
+All the programs mentioned belong to their respective owners.
 
 
 
