@@ -5,7 +5,7 @@ In this guide, I will help you make your windows install better, this includes t
 + Installing some really useful programs.
 
 > [!NOTE]  
-> This guide has been tested on Windows 11 only.
+> This guide has only been tested on Windows 11.
 
 > [!IMPORTANT]  
 > This is only a guide almost all of the files, apps or videos are not owned by me.
