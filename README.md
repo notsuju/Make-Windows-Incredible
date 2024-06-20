@@ -149,7 +149,7 @@ Install firefox from (https://www.mozilla.org/en-US/firefox/)
 
 Go to [Betterfox](https://github.com/yokoffing/Betterfox) and click on **raw** in the right hand side and copy everything.
 
-[see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
+HOW TO COPY A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
 **Search** `about:profiles` in the address bar of firefox
 
@@ -228,20 +228,6 @@ You can this amazing [guide](https://www.elevenforum.com/t/switch-to-local-accou
 ## 🌷Making Windows beautiful
 Time to make everything [catppuccin theme](https://github.com/catppuccin/catppuccin).
 
-### First install some important programs
-<details close>
-<summary>Click me</summary>
-<br>
-
-+ Install [scoop](https://scoop.sh/) by running `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression` this command in powershell as administrator and wait till its successful
-
-+ Install [Chocolatey](https://chocolatey.org/install) by running command prompt as administrator and paste this `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` and hit enter and let it install until you see successful.
-
-+ Install Winget by downloading or updating [App Installer from microsoft store](https://apps.microsoft.com/detail/9nblggh4nns1?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US#activetab=pivot:overviewtab)
-
-</details>
-
 ### Pick a wallpaper
 <details close>
 <summary>Click me</summary>
@@ -272,17 +258,17 @@ You can follow this amazing [video](https://www.youtube.com/watch?v=kvpZx_SP2SM&
 
 HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-4. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
+3. Go to `C:\Program Files\StartAllBack\Styles` and copy the downloaded catppuccin sab file there.
 
-5. Now right click on start logo on desktop, go to the last option preferences, it will open startallback settings.
+4. Now right click on start logo on desktop, go to the last option preferences, it will open startallback settings.
 
 see here
 
 ![startprop](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/b7b70bf5-2510-401b-9a3e-faf27874c757)
 
-7. Go the taskbar settings and change the taskbar location setting to **TOP**
+5. Go the taskbar settings and change the taskbar location setting to **TOP**
 
-8. In taskbar settings change the visual style to catppuccin (do the same for start menu)
+6. In taskbar settings change the visual style to catppuccin (do the same for start menu)
 
 DONE THE START MENU AND TASKBAR ARE DONE. :)
 
@@ -307,17 +293,17 @@ Steps:
 
 HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-5. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
+4. After downloading the catppuccin-mocha-pink.nss file, open the file in notepad and **rename the file to theme.nss**
 
-6. Copy the theme.nss file
+5. Copy the theme.nss file
 
-7. Shift+right-click on the taskbar
+6. Shift+right-click on the taskbar
 
-8. Then clcik shell>open directory, this should open in file manager.
+7. Then clcik shell>open directory, this should open in file manager.
 
-9. Go the folder `imports` in that directory and paste your theme.nss there.
+8. Go the folder `imports` in that directory and paste your theme.nss there.
 
-10. Hold shift and right-click the taskbar and Click on **Exit Explorer**
+9. Hold shift and right-click the taskbar and Click on **Exit Explorer**
 
 DONE THE RIGHT CLICK MENU IS NOW THEMED. 💯
 
@@ -342,7 +328,7 @@ Steps:
 
 HOW TO DOWNLOAD A RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-5. Now copy this file and paste it in `C:\Users\username\AppData\Roaming\alacritty` in file manager
+4. Now copy this file and paste it in `C:\Users\username\AppData\Roaming\alacritty` in file manager
 
 DONE YOUR ALACRITTY THEME IS DONE.
 
@@ -441,43 +427,43 @@ We are using a theme called [Another Online](https://github.com/mimipile/firefox
 
 ![firefoxopendir](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/8e615d4c-07bf-4f93-9979-afdf854e002a)
 
-8. Close firefox
+7. Close firefox
 
-9. Now here create a folder named `chrome`
+8. Now here create a folder named `chrome`
 
-10. Now go inside the chrome folder
+9. Now go inside the chrome folder
 
-11. Make two files inside called `userChrome.css` and `userContent.css`
+10. Make two files inside called `userChrome.css` and `userContent.css`
 
 HOW TO MAKE FILE WITH `.css` type [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-13. Also make a folder named `img`
+11. Also make a folder named `img`
 
 It should look like this
 
 ![Screenshot 2024-06-19 230109](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/0d204ef3-1028-485a-aa3e-be25508449c8)
 
-15. Now paste the raw file that was copied in **step 4** in `userChrome.css` and save
+12. Now paste the raw file that was copied in **step 4** in `userChrome.css` and save
 
-16. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
+13. Go to [link](https://github.com/notsuju/Make-Windows-Incredible/blob/main/userContent.css) and copy the raw file
 
 HOW TO COPY RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredible?tab=readme-ov-file#some-guides-about-how-to-use-github)
 
-18. Paste this raw file in `userContent.css` and save
+14. Paste this raw file in `userContent.css` and save
 
-19. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+15. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
 
-20. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+16. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
 
-21. And paste that image in the `img` folder (this will be your firefox background image)
+17. And paste that image in the `img` folder (this will be your firefox background image)
 
-22. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
+18. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
 
-23. Close everything and reopen firefox (Your theme and img is work now)
+19. Close everything and reopen firefox (Your theme and img is work now)
 
-24. Install the [Firefox color](https://color.firefox.com/)
+20. Install the [Firefox color](https://color.firefox.com/)
 
-25. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
+21. Now go to [here](https://color.firefox.com/?theme=XQAAAAJDBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pFtMcajvXaAE3RJ0F_F447xQs-L1kFlGgDKq4IIvWciiy4upusW7OvXIRinrLrwLvjXB37kvhN5ElayHo02fx3o8RrDShIhRpNiQMOdww5V2sCMLAfehhp-xkeer3MCWdRzOxwUd1idIdYygjYcDC9HOohbgoQY1wJYK0MG9FFPmpCOo5rViKWXT2rMRBQb2guhvABroGB6LqX-HZ9JR9FU6ZnHTCdQPn261avChXEifYgCOyCKdS9ZoXxv_HHhkTIaEsdaPO9_OsUjQOnRR9pOQ-2-gaJG0tk5WJBmW2OdZHi6QoWbHvo-LCxDCc5eM3Jnlsv7tefW8SXXnLqRKzvRpV5w-LJMsxKo2sk_mbfjvCt5UXn08uJWISpZgv-55kH1p9oHbjThn2WEQRY5WG7yRe3QfTR0WgAOhFyS8twgohbNtAGIYntaJW-9ziKrBuB5ASBAQ_wKYehawNAyShIBulC6wkZK2RoN8CeDkNDHQH8xS1cfyPOuC1OiL9DwyNUyDzvtj_zmaZw) and save the color scheme
 
 ALL DONE FIREFOX IS READY :)
 
