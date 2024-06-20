@@ -18,7 +18,7 @@ In this guide, I will help you make your windows install better, this includes t
 
 ![mainsample](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/48226358-28ca-4632-bcb7-8743e95f3780)
 
-![Screenshot 2024-06-19 102953](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/40572e80-b09c-4a86-939b-26a8d83be63e)
+![Screenshot 2024-06-19 102953-min](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/9d610f97-89fa-475b-9cbf-b3bb21eb9411)
 
 ![sample2](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/82cbef7c-949c-4646-9976-c33c491fa421)
 
