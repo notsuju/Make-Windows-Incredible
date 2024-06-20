@@ -3,6 +3,10 @@ In this guide, I will help you make your windows install better, this includes t
 + ✨This is a guide which will help you make your windows pc much more **secure** and **private** by disabling most of the Telemetry.
 + Plus this guide will aslo make your windows install look way more **beautiful** using Catppuccin theme for most things.
 + Installing some really useful programs.
+
+> [!NOTE]  
+> This guide has been tested on Windows 11 only.
+
 > [!WARNING]
 > This is going to be a long process and will take good amount of hard work.
 
