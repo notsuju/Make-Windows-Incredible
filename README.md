@@ -71,6 +71,11 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression` this command in
 
 + Install Winget by downloading or updating [App Installer from microsoft store](https://apps.microsoft.com/detail/9nblggh4nns1?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US#activetab=pivot:overviewtab)
 
++ Downlaod [monaspace font](https://monaspace.githubnext.com/)
+  - Unzip the downloaded file.
+  - Open the unziped folder go `monaspace-v1.101>fonts>variable`
+  - Choose the `MonaspaceNeonVarVF.ttf` file and install the font by right-clicking and choosing install.
+
 </details>
 
 ### Some guides about how to use github
