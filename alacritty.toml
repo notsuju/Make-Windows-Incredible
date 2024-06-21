@@ -15,17 +15,13 @@ y = 20
 [font]
 size = 12.0
 
-[font.bold]
-family = "Monaspace Neon Var"
+normal = { family = "Monaspace Neon Var"}
 
-[font.bold_italic]
-family = "Monaspace Neon Var"
+bold = { family = "Monaspace Neon Var"}
 
-[font.italic]
-family = "Monaspace Neon Var"
+italic = { family = "Monaspace Neon Var"}
 
-[font.normal]
-family = "Monaspace Neon Var"
+bold_italic = { family = "Monaspace Neon Var"}
 
 
 [colors.primary]
