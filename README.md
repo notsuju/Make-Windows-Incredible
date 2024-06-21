@@ -428,13 +428,13 @@ We are using a theme called [Another Online](https://github.com/mimipile/firefox
 
 5. Open firefox and type `about:profiles` in the address bar and search
 
-6. Go the second option root directory and click open directory
+6. Go the second option root directory and click open folder
 
 ![firefoxopendir](https://github.com/notsuju/Make-Windows-Incredible/assets/131643792/8e615d4c-07bf-4f93-9979-afdf854e002a)
 
 7. Close firefox
 
-8. Now here create a folder named `chrome`
+8. Now here (step 6) create a folder named `chrome`
 
 9. Now go inside the chrome folder
 
@@ -456,15 +456,15 @@ HOW TO COPY RAW FILE [see here](https://github.com/notsuju/Make-Windows-Incredib
 
 14. Paste this raw file in `userContent.css` and save
 
-15. Now pick downlaod image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers)
+15. Now pick and downlaod any image from [here](https://github.com/notsuju/Make-Windows-Incredible/tree/main/Wallpapers) (this will be your firefox background)
 
-16. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
+16. Copy the image downloaded And paste that image in the `img` folder (this will be your firefox background image)
 
-17. And paste that image in the `img` folder (this will be your firefox background image)
+17. Copy the name of the image with file type `Example: 123.png` copy the whole thing 123.png
 
 18. Now open `userContent` and look at **line 12** paste the copied name after `img/` and save
 
-19. Close everything and reopen firefox (Your theme and img is work now)
+19. Close everything and reopen firefox (Your theme and img will work now)
 
 20. Install the [Firefox color](https://color.firefox.com/)
 
